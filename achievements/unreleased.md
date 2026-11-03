@@ -11,7 +11,7 @@
 
 ## Heart On Your Sleeve
 
-<img src="../assets/badges/heart-on-your-sleeve.svg" width="120" alt="Heart On Your Sleeve" align="right">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="120" alt="Heart On Your Sleeve" align="right">
 
 | | |
 |---|---|
@@ -25,7 +25,7 @@ The name and artwork appeared alongside the original 2022 achievements launch, b
 
 ## Open Sourcerer
 
-<img src="../assets/badges/open-sourcerer.svg" width="120" alt="Open Sourcerer" align="right">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="120" alt="Open Sourcerer" align="right">
 
 | | |
 |---|---|

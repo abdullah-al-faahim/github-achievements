@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/badges/quickdraw.svg" width="140" alt="Quickdraw">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="140" alt="Quickdraw">
 
 # Quickdraw
 

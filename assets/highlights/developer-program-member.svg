@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Developer Program Member">
-<title>Developer Program Member</title>
-<defs>
-<radialGradient id="g-developer-program-member" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#79c0ff"/><stop offset="1" stop-color="#0969da"/></radialGradient>
-<linearGradient id="r-developer-program-member" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6e7681"/><stop offset="1" stop-color="#30363d"/></linearGradient>
-<filter id="gray-developer-program-member"><feColorMatrix type="saturate" values="0.35"/></filter>
-</defs>
-<g>
-<circle cx="80" cy="80" r="74" fill="url(#r-developer-program-member)"/>
-<circle cx="80" cy="80" r="64" fill="url(#g-developer-program-member)" stroke="#30363d" stroke-width="2"/>
-<path d="M30 62 A52 52 0 0 1 120 38" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".28"/>
-<polyline points="66,58 46,80 66,102" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><polyline points="94,58 114,80 94,102" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><line x1="86" y1="52" x2="74" y2="108" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
-</g>
-
-</svg>
+<svg fill="#8b949e" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24"><path d="M8.75 8h6.5a.75.75 0 0 1 .75.75v6.5a.75.75 0 0 1-.75.75h-6.5a.75.75 0 0 1-.75-.75v-6.5A.75.75 0 0 1 8.75 8Zm.75 6.5h5v-5h-5Z"/><path d="M15.25 1a.75.75 0 0 1 .75.75V4h2.25c.966 0 1.75.784 1.75 1.75V8h2.25a.75.75 0 0 1 0 1.5H20v5h2.25a.75.75 0 0 1 0 1.5H20v2.25A1.75 1.75 0 0 1 18.25 20H16v2.25a.75.75 0 0 1-1.5 0V20h-5v2.25a.75.75 0 0 1-1.5 0V20H5.75A1.75 1.75 0 0 1 4 18.25V16H1.75a.75.75 0 0 1 0-1.5H4v-5H1.75a.75.75 0 0 1 0-1.5H4V5.75C4 4.784 4.784 4 5.75 4H8V1.75a.75.75 0 0 1 1.5 0V4h5V1.75a.75.75 0 0 1 .75-.75Zm3 17.5a.25.25 0 0 0 .25-.25V5.75a.25.25 0 0 0-.25-.25H5.75a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25Z"/></svg>

@@ -5,34 +5,34 @@ Check your current badges at `https://github.com/<your-username>?tab=achievement
 
 ## Active
 
-### <img src="assets/badges/starstruck.svg" width="22"> Starstruck
+### <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="22"> Starstruck
 - [ ] Default: 16 stars on one repo
 - [ ] 🥉 Bronze: 128 stars
 - [ ] 🥈 Silver: 512 stars
 - [ ] 🥇 Gold: 4,096 stars
 
-### <img src="assets/badges/pull-shark.svg" width="22"> Pull Shark
+### <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="22"> Pull Shark
 - [ ] Default: 2 merged PRs
 - [ ] 🥉 Bronze: 16 merged PRs
 - [ ] 🥈 Silver: 128 merged PRs
 - [ ] 🥇 Gold: 1,024 merged PRs
 
-### <img src="assets/badges/pair-extraordinaire.svg" width="22"> Pair Extraordinaire
+### <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="22"> Pair Extraordinaire
 - [ ] Default: 1 merged PR with a coauthored commit
 - [ ] 🥉 Bronze: 10
 - [ ] 🥈 Silver: 24
 - [ ] 🥇 Gold: 48
 
-### <img src="assets/badges/galaxy-brain.svg" width="22"> Galaxy Brain
+### <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="22"> Galaxy Brain
 - [ ] Default: 2 accepted answers
 - [ ] 🥉 Bronze: 8
 - [ ] 🥈 Silver: 16
 - [ ] 🥇 Gold: 32
 
 ### Single-tier
-- [ ] <img src="assets/badges/quickdraw.svg" width="22"> Quickdraw: close an issue/PR within 5 minutes
-- [ ] <img src="assets/badges/yolo.svg" width="22"> YOLO: merge a PR without a review
-- [ ] <img src="assets/badges/public-sponsor.svg" width="22"> Public Sponsor: sponsor someone publicly
+- [ ] <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="22"> Quickdraw: close an issue/PR within 5 minutes
+- [ ] <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="22"> YOLO: merge a PR without a review
+- [ ] <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="22"> Public Sponsor: sponsor someone publicly
 
 ## Highlights
 - [ ] PRO

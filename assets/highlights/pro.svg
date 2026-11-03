@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="PRO">
-<title>PRO</title>
-<defs>
-<radialGradient id="g-pro" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#8b949e"/><stop offset="1" stop-color="#57606a"/></radialGradient>
-<linearGradient id="r-pro" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6e7681"/><stop offset="1" stop-color="#30363d"/></linearGradient>
-<filter id="gray-pro"><feColorMatrix type="saturate" values="0.35"/></filter>
-</defs>
-<g>
-<circle cx="80" cy="80" r="74" fill="url(#r-pro)"/>
-<circle cx="80" cy="80" r="64" fill="url(#g-pro)" stroke="#30363d" stroke-width="2"/>
-<path d="M30 62 A52 52 0 0 1 120 38" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".28"/>
-<text x="80" y="92" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="34" font-weight="800" letter-spacing="2" fill="#ffffff">PRO</text>
-</g>
-
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="40" viewBox="0 0 76 40" role="img" aria-label="PRO"><rect x="1.5" y="1.5" width="73" height="37" rx="18.5" fill="none" stroke="#a371f7" stroke-width="3"/><text x="38" y="27" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="1" fill="#a371f7">PRO</text></svg>

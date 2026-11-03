@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="../assets/badges/starstruck.svg" width="140" alt="Starstruck">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="140" alt="Starstruck">
 
 # Starstruck
 
 *Created a repository that has many stars.*
 
-<img src="../assets/tiers/starstruck.svg" width="640" alt="Starstruck tiers: 16, 128, 512, 4096">
+<table><tr><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="120" alt="Starstruck Default"><br><b>Default</b><br><sub>16</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" width="120" alt="Starstruck Bronze"><br><b>Bronze</b><br><sub>128</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png" width="120" alt="Starstruck Silver"><br><b>Silver</b><br><sub>512</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="120" alt="Starstruck Gold"><br><b>Gold</b><br><sub>4,096</sub></td></tr></table>
 
 </div>
 

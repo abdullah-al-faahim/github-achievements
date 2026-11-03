@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="../assets/badges/pair-extraordinaire.svg" width="140" alt="Pair Extraordinaire">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="140" alt="Pair Extraordinaire">
 
 # Pair Extraordinaire
 
 *Coauthored commits on merged pull requests.*
 
-<img src="../assets/tiers/pair-extraordinaire.svg" width="640" alt="Pair Extraordinaire tiers: 1, 10, 24, 48">
+<table><tr><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120" alt="Pair Extraordinaire Default"><br><b>Default</b><br><sub>1</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="120" alt="Pair Extraordinaire Bronze"><br><b>Bronze</b><br><sub>10</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="120" alt="Pair Extraordinaire Silver"><br><b>Silver</b><br><sub>24</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="120" alt="Pair Extraordinaire Gold"><br><b>Gold</b><br><sub>48</sub></td></tr></table>
 
 </div>
 

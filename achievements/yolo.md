@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/badges/yolo.svg" width="140" alt="YOLO">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="140" alt="YOLO">
 
 # YOLO
 

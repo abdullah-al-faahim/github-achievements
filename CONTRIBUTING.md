@@ -12,8 +12,8 @@ Open an issue that includes:
 ## Editing the guide
 
 1. Fork the repo and create a branch.
-2. Update thresholds, colors or names in [`data/achievements.json`](data/achievements.json).
-3. Regenerate the artwork:
+2. Update thresholds or names in [`data/achievements.json`](data/achievements.json).
+3. Regenerate the banner and check every badge URL still resolves:
    ```bash
    python scripts/generate_badges.py
    ```
@@ -24,4 +24,4 @@ Open an issue that includes:
 
 - Keep steps short and practical.
 - Mark anything unverified as **unconfirmed**.
-- Don't add official GitHub artwork. All badge art here must be original.
+- Link GitHub's official badge images from `github.githubassets.com`. Don't commit copies of them to the repo.

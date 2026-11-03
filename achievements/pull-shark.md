@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="../assets/badges/pull-shark.svg" width="140" alt="Pull Shark">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="140" alt="Pull Shark">
 
 # Pull Shark
 
 *Opened pull requests that have been merged.*
 
-<img src="../assets/tiers/pull-shark.svg" width="640" alt="Pull Shark tiers: 2, 16, 128, 1024">
+<table><tr><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Default"><br><b>Default</b><br><sub>2</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="120" alt="Pull Shark Bronze"><br><b>Bronze</b><br><sub>16</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="120" alt="Pull Shark Silver"><br><b>Silver</b><br><sub>128</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="120" alt="Pull Shark Gold"><br><b>Gold</b><br><sub>1,024</sub></td></tr></table>
 
 </div>
 

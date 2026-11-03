@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="../assets/badges/galaxy-brain.svg" width="140" alt="Galaxy Brain">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="140" alt="Galaxy Brain">
 
 # Galaxy Brain
 
 *Answered discussions that were marked as the accepted answer.*
 
-<img src="../assets/tiers/galaxy-brain.svg" width="640" alt="Galaxy Brain tiers: 2, 8, 16, 32">
+<table><tr><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="120" alt="Galaxy Brain Default"><br><b>Default</b><br><sub>2</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="120" alt="Galaxy Brain Bronze"><br><b>Bronze</b><br><sub>8</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="120" alt="Galaxy Brain Silver"><br><b>Silver</b><br><sub>16</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="120" alt="Galaxy Brain Gold"><br><b>Gold</b><br><sub>32</sub></td></tr></table>
 
 </div>
 

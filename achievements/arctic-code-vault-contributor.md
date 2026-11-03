@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/badges/arctic-code-vault-contributor.svg" width="140" alt="Arctic Code Vault Contributor">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="140" alt="Arctic Code Vault Contributor">
 
 # Arctic Code Vault Contributor
 

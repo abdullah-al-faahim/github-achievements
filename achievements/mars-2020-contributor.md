@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/badges/mars-2020-contributor.svg" width="140" alt="Mars 2020 Helicopter Contributor">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="140" alt="Mars 2020 Helicopter Contributor">
 
 # Mars 2020 Helicopter Contributor
 

@@ -2,7 +2,8 @@
 
 <img src="assets/banner.svg" alt="GitHub Achievements: every badge, every tier, and how to unlock it" width="100%">
 
-<br>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="72" alt="Starstruck"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="72" alt="Pull Shark"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="72" alt="Pair Extraordinaire"> <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="72" alt="Galaxy Brain"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO"> <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="72" alt="Public Sponsor">
+
 
 ![Active](https://img.shields.io/badge/active_achievements-7-2ea043?style=for-the-badge)
 ![Retired](https://img.shields.io/badge/retired-2-6e7681?style=for-the-badge)
@@ -32,25 +33,25 @@ These are the achievements any GitHub user can earn today. Click a badge for the
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="achievements/starstruck.md"><img src="assets/badges/starstruck.svg" width="110" alt="Starstruck"></a><br>
+<a href="achievements/starstruck.md"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="110" alt="Starstruck"></a><br>
 <b>Starstruck</b><br>
 <sub>A repo you own reaches <b>16</b> stars</sub><br>
 <sub>🥉 128 · 🥈 512 · 🥇 4096</sub>
 </td>
 <td align="center" width="25%">
-<a href="achievements/pull-shark.md"><img src="assets/badges/pull-shark.svg" width="110" alt="Pull Shark"></a><br>
+<a href="achievements/pull-shark.md"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110" alt="Pull Shark"></a><br>
 <b>Pull Shark</b><br>
 <sub><b>2</b> of your pull requests are merged</sub><br>
 <sub>🥉 16 · 🥈 128 · 🥇 1024</sub>
 </td>
 <td align="center" width="25%">
-<a href="achievements/pair-extraordinaire.md"><img src="assets/badges/pair-extraordinaire.svg" width="110" alt="Pair Extraordinaire"></a><br>
+<a href="achievements/pair-extraordinaire.md"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="110" alt="Pair Extraordinaire"></a><br>
 <b>Pair Extraordinaire</b><br>
 <sub>Coauthor a commit in <b>1</b> merged PR</sub><br>
 <sub>🥉 10 · 🥈 24 · 🥇 48</sub>
 </td>
 <td align="center" width="25%">
-<a href="achievements/galaxy-brain.md"><img src="assets/badges/galaxy-brain.svg" width="110" alt="Galaxy Brain"></a><br>
+<a href="achievements/galaxy-brain.md"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="110" alt="Galaxy Brain"></a><br>
 <b>Galaxy Brain</b><br>
 <sub><b>2</b> accepted answers in Discussions</sub><br>
 <sub>🥉 8 · 🥈 16 · 🥇 32</sub>
@@ -58,25 +59,25 @@ These are the achievements any GitHub user can earn today. Click a badge for the
 </tr>
 <tr>
 <td align="center">
-<a href="achievements/quickdraw.md"><img src="assets/badges/quickdraw.svg" width="110" alt="Quickdraw"></a><br>
+<a href="achievements/quickdraw.md"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110" alt="Quickdraw"></a><br>
 <b>Quickdraw</b><br>
 <sub>Close an issue or PR within <b>5 minutes</b> of opening it</sub><br>
 <sub>Single tier</sub>
 </td>
 <td align="center">
-<a href="achievements/yolo.md"><img src="assets/badges/yolo.svg" width="110" alt="YOLO"></a><br>
+<a href="achievements/yolo.md"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110" alt="YOLO"></a><br>
 <b>YOLO</b><br>
 <sub>Merge a pull request <b>without a review</b></sub><br>
 <sub>Single tier</sub>
 </td>
 <td align="center">
-<a href="achievements/public-sponsor.md"><img src="assets/badges/public-sponsor.svg" width="110" alt="Public Sponsor"></a><br>
+<a href="achievements/public-sponsor.md"><img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="110" alt="Public Sponsor"></a><br>
 <b>Public Sponsor</b><br>
 <sub>Sponsor someone through <b>GitHub Sponsors</b></sub><br>
 <sub>Single tier</sub>
 </td>
 <td align="center">
-<a href="TRACKER.md"><img src="assets/badges/starstruck-gold.svg" width="110" alt="Track your progress"></a><br>
+<a href="TRACKER.md"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="110" alt="Track your progress"></a><br>
 <b>Your progress</b><br>
 <sub>Copy the checklist and tick off<br>every badge you've unlocked</sub><br>
 <sub><a href="TRACKER.md">Open tracker →</a></sub>
@@ -88,13 +89,13 @@ These are the achievements any GitHub user can earn today. Click a badge for the
 
 | | Achievement | How to earn it | Default | 🥉 Bronze | 🥈 Silver | 🥇 Gold | Effort |
 |:-:|---|---|:-:|:-:|:-:|:-:|:-:|
-| <img src="assets/badges/starstruck.svg" width="32"> | [Starstruck](achievements/starstruck.md) | Stars on a single repo you own | 16 | 128 | 512 | 4,096 | ⭐⭐⭐ |
-| <img src="assets/badges/pull-shark.svg" width="32"> | [Pull Shark](achievements/pull-shark.md) | Merged pull requests you opened | 2 | 16 | 128 | 1,024 | ⭐ |
-| <img src="assets/badges/pair-extraordinaire.svg" width="32"> | [Pair Extraordinaire](achievements/pair-extraordinaire.md) | Merged PRs with a commit you coauthored | 1 | 10 | 24 | 48 | ⭐ |
-| <img src="assets/badges/galaxy-brain.svg" width="32"> | [Galaxy Brain](achievements/galaxy-brain.md) | Accepted answers in Discussions | 2 | 8 | 16 | 32 | ⭐⭐ |
-| <img src="assets/badges/quickdraw.svg" width="32"> | [Quickdraw](achievements/quickdraw.md) | Close an issue/PR within 5 min | 1 | – | – | – | ⭐ |
-| <img src="assets/badges/yolo.svg" width="32"> | [YOLO](achievements/yolo.md) | Merge a PR without a review | 1 | – | – | – | ⭐ |
-| <img src="assets/badges/public-sponsor.svg" width="32"> | [Public Sponsor](achievements/public-sponsor.md) | Sponsor via GitHub Sponsors | 1 | – | – | – | ⭐⭐ |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="32"> | [Starstruck](achievements/starstruck.md) | Stars on a single repo you own | 16 | 128 | 512 | 4,096 | ⭐⭐⭐ |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="32"> | [Pull Shark](achievements/pull-shark.md) | Merged pull requests you opened | 2 | 16 | 128 | 1,024 | ⭐ |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="32"> | [Pair Extraordinaire](achievements/pair-extraordinaire.md) | Merged PRs with a commit you coauthored | 1 | 10 | 24 | 48 | ⭐ |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="32"> | [Galaxy Brain](achievements/galaxy-brain.md) | Accepted answers in Discussions | 2 | 8 | 16 | 32 | ⭐⭐ |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="32"> | [Quickdraw](achievements/quickdraw.md) | Close an issue/PR within 5 min | 1 | – | – | – | ⭐ |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="32"> | [YOLO](achievements/yolo.md) | Merge a PR without a review | 1 | – | – | – | ⭐ |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="32"> | [Public Sponsor](achievements/public-sponsor.md) | Sponsor via GitHub Sponsors | 1 | – | – | – | ⭐⭐ |
 
 > [!TIP]
 > Quickdraw, YOLO and Pull Shark can all be earned in about ten minutes on a repository of your own. Pair Extraordinaire takes one more step: add a `Co-authored-by:` trailer to a commit. The [quick-start guide](#-quick-start-four-badges-in-ten-minutes) below walks through it.
@@ -107,7 +108,7 @@ These are the achievements any GitHub user can earn today. Click a badge for the
 <img src="assets/tier-legend.svg" alt="Default, Bronze (x2), Silver (x3), Gold (x4)" width="70%">
 </div>
 
-Four achievements level up as you keep going. Each new tier changes the badge's **ring color** and adds a **multiplier label** (`x2`, `x3`, `x4`) in the corner. Your profile only shows the highest tier you've reached.
+Four achievements level up as you keep going. Each new tier swaps in a new version of the badge artwork and adds a **multiplier label** (`x2`, `x3`, `x4`) in the corner. Your profile only shows the highest tier you've reached.
 
 | Tier | Label | Starstruck | Pull Shark | Pair Extraordinaire | Galaxy Brain |
 |---|:-:|:-:|:-:|:-:|:-:|
@@ -121,16 +122,16 @@ Four achievements level up as you keep going. Each new tier changes the badge's 
 <br>
 
 **Starstruck**<br>
-<img src="assets/tiers/starstruck.svg" width="560" alt="Starstruck tiers">
+<table><tr><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="110" alt="Starstruck Default"><br><b>Default</b><br><sub>16</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" width="110" alt="Starstruck Bronze"><br><b>Bronze</b><br><sub>128</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png" width="110" alt="Starstruck Silver"><br><b>Silver</b><br><sub>512</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="110" alt="Starstruck Gold"><br><b>Gold</b><br><sub>4,096</sub></td></tr></table>
 
 **Pull Shark**<br>
-<img src="assets/tiers/pull-shark.svg" width="560" alt="Pull Shark tiers">
+<table><tr><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110" alt="Pull Shark Default"><br><b>Default</b><br><sub>2</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="110" alt="Pull Shark Bronze"><br><b>Bronze</b><br><sub>16</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="110" alt="Pull Shark Silver"><br><b>Silver</b><br><sub>128</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="110" alt="Pull Shark Gold"><br><b>Gold</b><br><sub>1,024</sub></td></tr></table>
 
 **Pair Extraordinaire**<br>
-<img src="assets/tiers/pair-extraordinaire.svg" width="560" alt="Pair Extraordinaire tiers">
+<table><tr><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="110" alt="Pair Extraordinaire Default"><br><b>Default</b><br><sub>1</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="110" alt="Pair Extraordinaire Bronze"><br><b>Bronze</b><br><sub>10</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="110" alt="Pair Extraordinaire Silver"><br><b>Silver</b><br><sub>24</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="110" alt="Pair Extraordinaire Gold"><br><b>Gold</b><br><sub>48</sub></td></tr></table>
 
 **Galaxy Brain**<br>
-<img src="assets/tiers/galaxy-brain.svg" width="560" alt="Galaxy Brain tiers">
+<table><tr><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="110" alt="Galaxy Brain Default"><br><b>Default</b><br><sub>2</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="110" alt="Galaxy Brain Bronze"><br><b>Bronze</b><br><sub>8</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="110" alt="Galaxy Brain Silver"><br><b>Silver</b><br><sub>16</sub></td><td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="110" alt="Galaxy Brain Gold"><br><b>Gold</b><br><sub>32</sub></td></tr></table>
 
 </details>
 
@@ -142,8 +143,8 @@ These were awarded for one-time events. **They can no longer be earned**, but pe
 
 | | Achievement | What it was for | Window |
 |:-:|---|---|---|
-| <img src="assets/badges/arctic-code-vault-contributor.svg" width="64"> | [Arctic Code Vault Contributor](achievements/arctic-code-vault-contributor.md) | Code in active public repos captured by the **2020 GitHub Archive Program** snapshot, stored in the Arctic World Archive in Svalbard | Snapshot taken 2 Feb 2020 |
-| <img src="assets/badges/mars-2020-contributor.svg" width="64"> | [Mars 2020 Helicopter Contributor](achievements/mars-2020-contributor.md) | Commits to open source projects used by NASA's **Ingenuity** Mars helicopter | Awarded April 2021 |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="64"> | [Arctic Code Vault Contributor](achievements/arctic-code-vault-contributor.md) | Code in active public repos captured by the **2020 GitHub Archive Program** snapshot, stored in the Arctic World Archive in Svalbard | Snapshot taken 2 Feb 2020 |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="64"> | [Mars 2020 Helicopter Contributor](achievements/mars-2020-contributor.md) | Commits to open source projects used by NASA's **Ingenuity** Mars helicopter | Awarded April 2021 |
 
 ---
 
@@ -153,23 +154,23 @@ These have shown up in GitHub's front-end code and in testing, but GitHub has ne
 
 | | Name | What people think it's for |
 |:-:|---|---|
-| <img src="assets/badges/heart-on-your-sleeve.svg" width="64"> | [Heart On Your Sleeve](achievements/unreleased.md#heart-on-your-sleeve) | Reacting to something on GitHub with ❤️ |
-| <img src="assets/badges/open-sourcerer.svg" width="64"> | [Open Sourcerer](achievements/unreleased.md#open-sourcerer) | Contributing to many open source repositories |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="64"> | [Heart On Your Sleeve](achievements/unreleased.md#heart-on-your-sleeve) | Reacting to something on GitHub with ❤️ |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="64"> | [Open Sourcerer](achievements/unreleased.md#open-sourcerer) | Contributing to many open source repositories |
 
 ---
 
 ## ✨ Profile highlights
 
-Highlights aren't achievements. They're badges in the **Highlights** section of your profile sidebar, and they come from programs, plans, or roles. Full details are in [highlights.md](achievements/highlights.md).
+Highlights aren't achievements. They're badges in the **Highlights** section of your profile sidebar, and they come from programs, plans, or roles. GitHub draws them with its [Octicons](https://primer.style/octicons) icon set and Primer labels, shown here as-is. Full details are in [highlights.md](achievements/highlights.md).
 
 <table>
 <tr>
 <td align="center" width="14%"><img src="assets/highlights/pro.svg" width="72"><br><b>PRO</b><br><sub>GitHub Pro plan</sub></td>
-<td align="center" width="14%"><img src="assets/highlights/developer-program-member.svg" width="72"><br><b>Developer Program</b><br><sub>Joined the program</sub></td>
-<td align="center" width="14%"><img src="assets/highlights/security-bug-bounty-hunter.svg" width="72"><br><b>Bug Bounty Hunter</b><br><sub>Valid report to GitHub's bounty</sub></td>
-<td align="center" width="14%"><img src="assets/highlights/security-advisory-credit.svg" width="72"><br><b>Advisory Credit</b><br><sub>Credited on a reviewed advisory</sub></td>
-<td align="center" width="14%"><img src="assets/highlights/campus-expert.svg" width="72"><br><b>Campus Expert</b><br><sub>Student leader program</sub></td>
-<td align="center" width="14%"><img src="assets/highlights/github-star.svg" width="72"><br><b>GitHub Star</b><br><sub>Nominated community leader</sub></td>
+<td align="center" width="14%"><img src="assets/highlights/developer-program-member.svg" width="48"><br><b>Developer Program</b><br><sub>Joined the program</sub></td>
+<td align="center" width="14%"><img src="assets/highlights/security-bug-bounty-hunter.svg" width="48"><br><b>Bug Bounty Hunter</b><br><sub>Valid report to GitHub's bounty</sub></td>
+<td align="center" width="14%"><img src="assets/highlights/security-advisory-credit.svg" width="48"><br><b>Advisory Credit</b><br><sub>Credited on a reviewed advisory</sub></td>
+<td align="center" width="14%"><img src="assets/highlights/campus-expert.svg" width="48"><br><b>Campus Expert</b><br><sub>Student leader program</sub></td>
+<td align="center" width="14%"><img src="assets/highlights/github-star.svg" width="48"><br><b>GitHub Star</b><br><sub>Nominated community leader</sub></td>
 <td align="center" width="14%"><img src="assets/highlights/staff.svg" width="72"><br><b>Staff</b><br><sub>GitHub employee</sub></td>
 </tr>
 </table>
@@ -226,16 +227,14 @@ Badges usually show up within a few minutes, though sometimes it takes a few hou
 ├── FAQ.md                   ← visibility, delays, private repos, hiding badges
 ├── achievements/            ← one detailed guide per achievement
 ├── assets/
-│   ├── badges/              ← every badge at every tier
-│   ├── tiers/               ← side-by-side tier strips
-│   ├── highlights/          ← profile highlight badges
+│   ├── highlights/          ← official Octicons used for profile highlights
 │   ├── banner.svg
 │   └── tier-legend.svg
-├── data/achievements.json   ← single source of truth (names, tiers, colors)
-└── scripts/generate_badges.py  ← regenerates all artwork from the JSON
+├── data/achievements.json   ← single source of truth (names, tiers, badge URL)
+└── scripts/generate_badges.py  ← regenerates banner/legend, lists every badge URL
 ```
 
-Change a threshold or color in `data/achievements.json`, then run `python scripts/generate_badges.py` to regenerate the artwork.
+All achievement images are GitHub's official artwork, loaded straight from `github.githubassets.com` (the same files your profile uses), so they always match what GitHub shows. Run `python scripts/generate_badges.py` to print every badge URL for checking.
 
 ## 🤝 Contributing
 
@@ -246,7 +245,7 @@ GitHub changes achievements without announcing it. If you spot a new badge, a ch
 <div align="center">
 <sub>
 This is a fan-made reference and isn't affiliated with or endorsed by GitHub, Inc.
-The badge artwork here is original. "GitHub" and the achievement names belong to GitHub, Inc.
+Achievement badge images are © GitHub, Inc., linked from GitHub's own servers and not redistributed. Octicons are © GitHub, Inc. under the MIT License. "GitHub" and the achievement names belong to GitHub, Inc.
 Thresholds are community-verified and may change.
 </sub>
 </div>
