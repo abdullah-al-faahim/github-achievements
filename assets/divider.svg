@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" preserveAspectRatio="none" role="img" aria-label="">
+<defs><linearGradient id="d" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#79c0ff" stop-opacity="0"/><stop offset=".2" stop-color="#79c0ff"/><stop offset=".5" stop-color="#d2a8ff"/><stop offset=".8" stop-color="#ffa657"/><stop offset="1" stop-color="#ffa657" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-.3 0;.3 0;-.3 0" dur="6s" repeatCount="indefinite"/></linearGradient></defs>
+<rect x="0" y="10" width="1200" height="4" rx="2" fill="url(#d)"/>
+<g fill="#ffd33d"><circle cx="600" cy="12" r="6"><animate attributeName="r" values="4;7;4" dur="1.5s" repeatCount="indefinite"/></circle></g>
+</svg>
