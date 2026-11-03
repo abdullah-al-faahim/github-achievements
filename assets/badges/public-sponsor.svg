@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Public Sponsor">
+<title>Public Sponsor</title>
+<defs>
+<radialGradient id="g-public-sponsor" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#ff7b9c"/><stop offset="1" stop-color="#bf3989"/></radialGradient>
+<linearGradient id="r-public-sponsor" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6e7681"/><stop offset="1" stop-color="#30363d"/></linearGradient>
+<filter id="gray-public-sponsor"><feColorMatrix type="saturate" values="0.35"/></filter>
+</defs>
+<g>
+<circle cx="80" cy="80" r="74" fill="url(#r-public-sponsor)"/>
+<circle cx="80" cy="80" r="64" fill="url(#g-public-sponsor)" stroke="#30363d" stroke-width="2"/>
+<path d="M30 62 A52 52 0 0 1 120 38" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".28"/>
+<path d="M80 114 C46 92 44 70 54 60 C64 50 76 54 80 64 C84 54 96 50 106 60 C116 70 114 92 80 114 Z" fill="#ffffff"/>
+</g>
+
+</svg>

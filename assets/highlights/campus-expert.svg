@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="GitHub Campus Expert">
+<title>GitHub Campus Expert</title>
+<defs>
+<radialGradient id="g-campus-expert" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#56d364"/><stop offset="1" stop-color="#116329"/></radialGradient>
+<linearGradient id="r-campus-expert" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6e7681"/><stop offset="1" stop-color="#30363d"/></linearGradient>
+<filter id="gray-campus-expert"><feColorMatrix type="saturate" values="0.35"/></filter>
+</defs>
+<g>
+<circle cx="80" cy="80" r="74" fill="url(#r-campus-expert)"/>
+<circle cx="80" cy="80" r="64" fill="url(#g-campus-expert)" stroke="#30363d" stroke-width="2"/>
+<path d="M30 62 A52 52 0 0 1 120 38" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".28"/>
+<polygon points="80,50 122,70 80,90 38,70" fill="#ffffff"/><path d="M56 80 V100 C66 110 94 110 104 100 V80 L80 92 Z" fill="#ffffff" opacity=".85"/><line x1="116" y1="73" x2="116" y2="100" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</g>
+
+</svg>

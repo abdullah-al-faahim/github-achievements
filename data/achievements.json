@@ -1,0 +1,183 @@
+{
+  "updated": "2026-11",
+  "tiers": [
+    { "id": "default", "label": "Default", "suffix": "",   "color": "#8b949e", "dark": "#30363d" },
+    { "id": "bronze",  "label": "Bronze",  "suffix": "x2", "color": "#f9bfa7", "dark": "#a0522d" },
+    { "id": "silver",  "label": "Silver",  "suffix": "x3", "color": "#e1e4e8", "dark": "#6a737d" },
+    { "id": "gold",    "label": "Gold",    "suffix": "x4", "color": "#fedf68", "dark": "#b08800" }
+  ],
+  "achievements": [
+    {
+      "id": "starstruck",
+      "name": "Starstruck",
+      "status": "active",
+      "glyph": "star",
+      "colors": ["#ffd33d", "#f66a0a"],
+      "summary": "Created a repository that has many stars.",
+      "unit": "stars on one repository you own",
+      "tiers": [16, 128, 512, 4096],
+      "difficulty": 3
+    },
+    {
+      "id": "pull-shark",
+      "name": "Pull Shark",
+      "status": "active",
+      "glyph": "shark",
+      "colors": ["#58a6ff", "#1f6feb"],
+      "summary": "Opened pull requests that have been merged.",
+      "unit": "merged pull requests",
+      "tiers": [2, 16, 128, 1024],
+      "difficulty": 1
+    },
+    {
+      "id": "pair-extraordinaire",
+      "name": "Pair Extraordinaire",
+      "status": "active",
+      "glyph": "pair",
+      "colors": ["#a371f7", "#6e40c9"],
+      "summary": "Coauthored commits on merged pull requests.",
+      "unit": "merged pull requests with a coauthored commit",
+      "tiers": [1, 10, 24, 48],
+      "difficulty": 1
+    },
+    {
+      "id": "galaxy-brain",
+      "name": "Galaxy Brain",
+      "status": "active",
+      "glyph": "planet",
+      "colors": ["#db61a2", "#8250df"],
+      "summary": "Answered discussions that were marked as the accepted answer.",
+      "unit": "accepted answers in GitHub Discussions",
+      "tiers": [2, 8, 16, 32],
+      "difficulty": 2
+    },
+    {
+      "id": "quickdraw",
+      "name": "Quickdraw",
+      "status": "active",
+      "glyph": "bolt",
+      "colors": ["#ffa657", "#d1242f"],
+      "summary": "Closed an issue or pull request within 5 minutes of opening it.",
+      "unit": "fast close",
+      "tiers": [1],
+      "difficulty": 1
+    },
+    {
+      "id": "yolo",
+      "name": "YOLO",
+      "status": "active",
+      "glyph": "dice",
+      "colors": ["#3fb950", "#1a7f37"],
+      "summary": "Merged a pull request without a code review.",
+      "unit": "unreviewed merge",
+      "tiers": [1],
+      "difficulty": 1
+    },
+    {
+      "id": "public-sponsor",
+      "name": "Public Sponsor",
+      "status": "active",
+      "glyph": "heart",
+      "colors": ["#ff7b9c", "#bf3989"],
+      "summary": "Sponsored an open source contributor through GitHub Sponsors.",
+      "unit": "public sponsorship",
+      "tiers": [1],
+      "difficulty": 2
+    },
+    {
+      "id": "arctic-code-vault-contributor",
+      "name": "Arctic Code Vault Contributor",
+      "status": "retired",
+      "glyph": "snow",
+      "colors": ["#a5d6ff", "#388bfd"],
+      "summary": "Contributed code to repositories in the 2020 GitHub Archive Program.",
+      "unit": "contribution before 2020-02-02",
+      "tiers": [1],
+      "difficulty": 5
+    },
+    {
+      "id": "mars-2020-contributor",
+      "name": "Mars 2020 Helicopter Contributor",
+      "status": "retired",
+      "glyph": "heli",
+      "colors": ["#ff8f6b", "#a40e26"],
+      "summary": "Contributed code to repositories used in the Mars 2020 Helicopter Mission.",
+      "unit": "commit to a listed repository",
+      "tiers": [1],
+      "difficulty": 5
+    },
+    {
+      "id": "heart-on-your-sleeve",
+      "name": "Heart On Your Sleeve",
+      "status": "unreleased",
+      "glyph": "sleeve",
+      "colors": ["#ffaba8", "#cf222e"],
+      "summary": "Spotted in GitHub's code and tests, reportedly for reacting with a heart. Not awarded publicly.",
+      "unit": "unknown",
+      "tiers": [1],
+      "difficulty": 0
+    },
+    {
+      "id": "open-sourcerer",
+      "name": "Open Sourcerer",
+      "status": "unreleased",
+      "glyph": "wand",
+      "colors": ["#7ee787", "#2da44e"],
+      "summary": "Spotted in GitHub's code, reportedly for open source contributions. Not awarded publicly.",
+      "unit": "unknown",
+      "tiers": [1],
+      "difficulty": 0
+    }
+  ],
+  "highlights": [
+    {
+      "id": "pro",
+      "name": "PRO",
+      "glyph": "pro",
+      "colors": ["#8b949e", "#57606a"],
+      "summary": "Shown while your account is on the GitHub Pro plan (also shown for Education/Student Developer Pack users who get Pro)."
+    },
+    {
+      "id": "developer-program-member",
+      "name": "Developer Program Member",
+      "glyph": "code",
+      "colors": ["#79c0ff", "#0969da"],
+      "summary": "Shown after you join the GitHub Developer Program (you must have built or be building something that integrates with GitHub)."
+    },
+    {
+      "id": "security-bug-bounty-hunter",
+      "name": "Security Bug Bounty Hunter",
+      "glyph": "bug",
+      "colors": ["#ff7b72", "#a40e26"],
+      "summary": "Shown after you report an eligible vulnerability through the GitHub Security Bug Bounty program on HackerOne."
+    },
+    {
+      "id": "campus-expert",
+      "name": "GitHub Campus Expert",
+      "glyph": "cap",
+      "colors": ["#56d364", "#116329"],
+      "summary": "Shown for students accepted into the GitHub Campus Expert program."
+    },
+    {
+      "id": "security-advisory-credit",
+      "name": "Security Advisory Credit",
+      "glyph": "shield",
+      "colors": ["#d2a8ff", "#8250df"],
+      "summary": "Shown when you are credited on a reviewed advisory in the GitHub Advisory Database."
+    },
+    {
+      "id": "github-star",
+      "name": "GitHub Star",
+      "glyph": "star",
+      "colors": ["#e3b341", "#9e6a03"],
+      "summary": "Shown for members of the GitHub Stars program, which is by nomination for community leaders."
+    },
+    {
+      "id": "staff",
+      "name": "Staff",
+      "glyph": "staff",
+      "colors": ["#a371f7", "#512a97"],
+      "summary": "Shown for current GitHub employees."
+    }
+  ]
+}

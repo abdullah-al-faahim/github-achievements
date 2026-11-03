@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Security Bug Bounty Hunter">
+<title>Security Bug Bounty Hunter</title>
+<defs>
+<radialGradient id="g-security-bug-bounty-hunter" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#ff7b72"/><stop offset="1" stop-color="#a40e26"/></radialGradient>
+<linearGradient id="r-security-bug-bounty-hunter" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6e7681"/><stop offset="1" stop-color="#30363d"/></linearGradient>
+<filter id="gray-security-bug-bounty-hunter"><feColorMatrix type="saturate" values="0.35"/></filter>
+</defs>
+<g>
+<circle cx="80" cy="80" r="74" fill="url(#r-security-bug-bounty-hunter)"/>
+<circle cx="80" cy="80" r="64" fill="url(#g-security-bug-bounty-hunter)" stroke="#30363d" stroke-width="2"/>
+<path d="M30 62 A52 52 0 0 1 120 38" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".28"/>
+<ellipse cx="80" cy="86" rx="18" ry="24" fill="#ffffff"/><circle cx="80" cy="58" r="10" fill="#ffffff"/><path d="M62 76 L46 68 M62 90 L44 90 M64 104 L48 114 M98 76 L114 68 M98 90 L116 90 M96 104 L112 114 M74 50 L68 40 M86 50 L92 40" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</g>
+
+</svg>

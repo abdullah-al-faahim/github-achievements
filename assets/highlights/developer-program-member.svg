@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Developer Program Member">
+<title>Developer Program Member</title>
+<defs>
+<radialGradient id="g-developer-program-member" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#79c0ff"/><stop offset="1" stop-color="#0969da"/></radialGradient>
+<linearGradient id="r-developer-program-member" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6e7681"/><stop offset="1" stop-color="#30363d"/></linearGradient>
+<filter id="gray-developer-program-member"><feColorMatrix type="saturate" values="0.35"/></filter>
+</defs>
+<g>
+<circle cx="80" cy="80" r="74" fill="url(#r-developer-program-member)"/>
+<circle cx="80" cy="80" r="64" fill="url(#g-developer-program-member)" stroke="#30363d" stroke-width="2"/>
+<path d="M30 62 A52 52 0 0 1 120 38" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".28"/>
+<polyline points="66,58 46,80 66,102" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><polyline points="94,58 114,80 94,102" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><line x1="86" y1="52" x2="74" y2="108" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+</g>
+
+</svg>

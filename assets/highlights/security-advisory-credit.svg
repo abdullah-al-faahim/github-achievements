@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Security Advisory Credit">
+<title>Security Advisory Credit</title>
+<defs>
+<radialGradient id="g-security-advisory-credit" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#d2a8ff"/><stop offset="1" stop-color="#8250df"/></radialGradient>
+<linearGradient id="r-security-advisory-credit" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6e7681"/><stop offset="1" stop-color="#30363d"/></linearGradient>
+<filter id="gray-security-advisory-credit"><feColorMatrix type="saturate" values="0.35"/></filter>
+</defs>
+<g>
+<circle cx="80" cy="80" r="74" fill="url(#r-security-advisory-credit)"/>
+<circle cx="80" cy="80" r="64" fill="url(#g-security-advisory-credit)" stroke="#30363d" stroke-width="2"/>
+<path d="M30 62 A52 52 0 0 1 120 38" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".28"/>
+<path d="M80 42 L112 54 V80 C112 100 98 112 80 120 C62 112 48 100 48 80 V54 Z" fill="#ffffff"/><polyline points="66,82 76,92 96,70" fill="none" stroke="#24292f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+</svg>
